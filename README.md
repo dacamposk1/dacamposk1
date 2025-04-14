@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Daniel Campos</h1>
+<h3 align="center">Desarrollador apasionado por el backend y las soluciones prácticas.</h3>
 
-<!--
-**dacamposk1/dacamposk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Pythonista🐍+con+toque+de+Django🕊️;Fan+de+Java☕+y+MySQL🧠;Frontend+con+HTML+%26+CSS🎨+y+JS⚡;Siempre+aprendiendo+cosas+nuevas+🧑‍💻" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías que manejo:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="html" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="css" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielCamposDev&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCamposDev&layout=compact&theme=radical" alt="Top langs" />
+</p>
+
+---
+
+### 🤝 ¿Conectamos?
+
+- 💼 Puedes contactarme para proyectos o colaboraciones.
+- 📬 Email: [tuemail@dominio.com](mailto:daniel_chat@live.com)
