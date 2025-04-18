@@ -36,4 +36,4 @@
 ### 🤝 ¿Conectamos?
 
 - 💼 Puedes contactarme para proyectos o colaboraciones.
-- 📬 Email: [tuemail@dominio.com](mailto:daniel_chat@live.com)
+- 📬 Email: [daniel_chat@live.com](mailto:daniel_chat@live.com)
