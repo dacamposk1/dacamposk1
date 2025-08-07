@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Daniel Campos</h1>
-<h3 align="center">Desarrollador apasionado por el backend y las soluciones prácticas.</h3>
+<h3 align="center">Desarrollador apasionado por las soluciones prácticas.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Pythonista🐍+con+toque+de+Django🕊️;Fan+de+Java☕;Frontend+con+HTML+%26+CSS🎨+y+JS⚡;Siempre+aprendiendo+cosas+nuevas+🧑‍💻" />
